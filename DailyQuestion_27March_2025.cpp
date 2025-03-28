@@ -16,7 +16,7 @@ public:
             }
         }
         return element;
-    }
+    } 
 
     int minimumIndex(vector<int>& nums) {
         //obviously there can only be 1 dominant element
